@@ -10,7 +10,7 @@ export default function About() {
         if (myStyle.color == 'white') {
             setMyStyle({
                 color: 'black',
-                backgroundColor: 'white'
+                backgroundColor: 'grey'
             })
             setBtnText('Enable Dark Mode')
 
